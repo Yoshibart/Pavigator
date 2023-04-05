@@ -1,0 +1,13 @@
+SET FOREIGN_KEY_CHECKS = 0;
+TRUNCATE TABLE main_calendardatesmodel;
+TRUNCATE TABLE main_agencymodel;
+TRUNCATE TABLE main_calendermodel;
+TRUNCATE TABLE main_emailmodel;
+TRUNCATE TABLE main_routemodel;
+TRUNCATE TABLE main_stopmodel;
+TRUNCATE TABLE main_stoptimemodel;
+TRUNCATE TABLE main_transfersmodel;
+TRUNCATE TABLE main_tripmodel;
+TRUNCATE TABLE main_triptakenmodel;
+TRUNCATE TABLE main_shapemodel;
+SET FOREIGN_KEY_CHECKS = 1;
