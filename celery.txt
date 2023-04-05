@@ -1,0 +1,1 @@
+celery -A pavigator worker --beat -l info
